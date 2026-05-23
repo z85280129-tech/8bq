@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 8BQ大補丸",
+  "description": "奇美總院護理作業標準(SOP)與診所自主管理指引平台，整合AI醫療合規秘書與宣導海報生成器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
